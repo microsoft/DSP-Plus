@@ -1,0 +1,10 @@
+# These are the versions we currently use. 
+# Other compatible versions may also work, but are not tested.
+
+pexpect==4.9.0
+easydict==1.13
+numpy==2.2.5
+openai==1.78.1
+uvicorn==0.34.2
+fastapi==0.115.12
+loguru==0.7.3
